@@ -27,12 +27,12 @@
     },
     {
       "npcName": "Announcer",
-      "npcDialogue": "Why are you here?",
+      "npcDialogue": "WOULD YA SHUT UP!",
       "portraitFileName": "gade_face2"
     },
     {
       "npcName": "Announcer",
-      "npcDialogue": " Who let you in?",
+      "npcDialogue": " I'M THE ANNOUNCER HERE, WE DO THIS WHEN I SAY SO",
       "portraitFileName": "gade_face2"
     }
   ]

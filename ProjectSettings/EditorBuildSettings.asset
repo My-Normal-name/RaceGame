@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a3c6aaba58527bc4a81542126e7d7f24
+  - enabled: 1
     path: Assets/Scenes/AdvancedRace.unity
     guid: 9d7460a34a1e694468f368a1c88a2be0
   - enabled: 1
@@ -23,7 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CheckpointRaceDialogue.unity
     guid: 4a49d98322fb80f42be2f1ecfe210a73
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}

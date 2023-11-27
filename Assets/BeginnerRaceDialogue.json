@@ -7,7 +7,7 @@
     },
     {
       "npcName": "Announcer",
-      "npcDialogue": "Let’s go over a refresher for all our newbies ",
+      "npcDialogue": "Let’s go over a refresher, If this is your first time tunung in! ",
       "portraitFileName": "gade_face2"
     },
     {
@@ -17,17 +17,17 @@
     },
     {
       "npcName": "Announcer",
-      "npcDialogue": "Next up is your first taste of the real action, all you newbies are gonna compete against each other on the beginner course, the winner makes it to the next round-",
+      "npcDialogue": "Next up is your first taste of the real action, all ya newbies are gonna compete against each other on the beginner course, the winner makes it to the next round-",
       "portraitFileName": "gade_face2"
     },
     {
       "npcName": "Random Audience Member",
-      "npcDialogue": "START THE RACE ALREADY!",
+      "npcDialogue": "START THE RACE ALREADY, YA BUM!",
       "portraitFileName": "gade_face1"
     },
     {
       "npcName": "Announcer",
-      "npcDialogue": "*ahem* the goal of this race is to simply beat the other racers",
+      "npcDialogue": "...*ahem* the goal of this race is to simply beat the other racers",
       "portraitFileName": "gade_face2"
     }
   ]

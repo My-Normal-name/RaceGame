@@ -23,6 +23,7 @@ public class SFXManager : MonoBehaviour
         {
             hashmap.Add(clip.name, clip);
         }
+        DontDestroyOnLoad(gameObject);
     }
     public void PlaySound(string soundName)
     {

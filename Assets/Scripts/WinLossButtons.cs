@@ -15,4 +15,9 @@ public class WinLossButtons : MonoBehaviour
     {
         SceneManager.LoadScene(currentScene);
     }
+
+    public void MainMenu()
+    {
+        SceneManager.LoadScene("MainMenu");
+    }
 }
